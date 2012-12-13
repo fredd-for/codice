@@ -1,4 +1,3 @@
-codice
-======
+# Kohana PHP Framework, version 3.1 (release)
 
-correspondencia digital centralizada
+This is the current release version of [Kohana](http://kohanaframework.org/).
